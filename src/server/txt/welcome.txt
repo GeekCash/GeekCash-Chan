@@ -1,0 +1,33 @@
+Hi there! Welcome to the **GeekCash** Server! 
+> You will find important information in the announcements channel.
+> For support and help with anything relating to GeekCash, please ask in the appropriate support/help channels and do not PM an admin/mod directly.
+**Information**
+Name: GeekCash
+Ticker: GEEK
+Public Address Prefix: G
+Algorithm: Geek
+P2P Port: 6889 (Testnet: 16889)
+RPC Port: 6888 (Testnet: 16888)
+Block Time: 60 seconds
+Block Size: 2Mb
+Max Block Size: 128Mb
+DifficultyRetarget: Every block
+Difficulty Algorithm: Dark Gravity Wave v3.0
+Halving: 6 months
+Halving Decline: 5% (10% each year)
+Masternode Requirement: 10,000 GEEK
+Masternode Reward: 25% - 80% of block reward
+PoS Period: nHeight ≥ 180,000
+Governance & Budget Period: nHeight ≥ 300,000
+Air drop: No
+ICO: No
+Initial Supply: 5% (used for bounties, referrals, development...)
+Supply First Year: ~0,932,000,000 GEEK
+Supply Second Year: ~1,247,000,000 GEEK
+Supply After 2036+: ~3,600,000,000 GEEK
+HomePage: https://geekcash.org/
+Web-wallet: https://my.geekcash.org/ref/5aed385ea125950ff789614d
+Pool: https://pool.geekcash.org/
+Explorer: https://explorer.geekcash.org/
+Exchange: https://aiodex.com/?ref=5b3ee33df049720b0fe49667
+https://discord.gg/RvhvdZq

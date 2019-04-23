@@ -1,0 +1,5 @@
+**Reward !**
+
+Your node `{{ip}}` received a reward at block `{{lb}}`
+
+☞ <https://explorer.geekcash.org/address/{{wid}}>

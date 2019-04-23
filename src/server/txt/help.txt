@@ -1,0 +1,32 @@
+You can use GeekCash-Chan to monitor your Masternodes and subscribe event notifications. Once you added your nodes with `add` and enabled the desired notifications with the commands below you will receive a message from GeekCash-Chan on each occured event!
+
+Use one of the command prefix: `!`, `>` or `/`.
+
+**Common commands**
+
+**help**: Print help info
+**info**: Print the current status of the GeekCash network
+**supply**: Print total supply and simulate the stages
+
+**MasterNode configuration**
+
+`mn add {ip} {alias}` - Add monitor your node.
+Ex: `!mn add 8.8.8.8 mn-01` or `!mn a 8.8.8.8 mn-01`
+
+`mn update {ip} {alias}` - Change the name of a node with IP
+Ex: `!mn update 8.8.8.8 mn-02` or `!mn u 8.8.8.8 mn-02`
+
+`mn info {ip}` - Show details of your node
+Ex: `!mn info 8.8.8.8` or `!mn i 8.8.8.8`
+
+`mn info all` - List all details of your nodes
+Ex: `!mn info all` or `!mn i all`
+
+`mn remove {ip}` - Remove one of your nodes with IP
+Ex: `!mn remove 8.8.8.8` or `!mn r 8.8.8.8`
+
+`mn remove all` - Remove all your nodes
+Ex: `!mn remove all` or `!mn r all`
+
+`mn income {number masternode}` - Masternode Income Calculator
+Ex: `!mn income 1` or `!mn profit 1`

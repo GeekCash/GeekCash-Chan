@@ -1,0 +1,2 @@
+**Warning!**
+Your node {{ip}} has been last seen before {{time}}.
